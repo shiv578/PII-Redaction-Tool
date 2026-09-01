@@ -5,7 +5,7 @@ import {
   Copy, Check, ChevronDown, Terminal, Circle, Layers, Route, DollarSign,
 } from "lucide-react";
  
-/* ═══════════════════════════════════════════════════════════════════ 
+/* ══════════════════ ═════════════════════════════════════════════════ 
    ANIMATION VARIANTS      
  
 
