@@ -4,7 +4,7 @@ import {
   Cpu, Sun, Moon, ArrowRight, Zap, Shield, GitBranch, Activity,
   Copy, Check, ChevronDown, Terminal, Circle, Layers, Route, DollarSign,
 } from "lucide-react";
- 
+  
 /* ══════════════════ ═════════════════════════════════════════════════ 
    ANIMATION VARIANTS      
  
